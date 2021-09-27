@@ -1,1 +1,13 @@
 name : mouse
+
+
+
+저장소 연동방법
+git remote add 원격저장소이름 https://github.com/유저네임/레파지토리네임.git
+
+
+파일 수정 후 업데이트 방법
+git add 파일명 
+git commit -m "msg" 
+git push origin master
+
